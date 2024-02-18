@@ -1,0 +1,14 @@
+/home/aleksey/Programming/lesson1/task5/obj/Debug/net8.0/task5.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksey/Programming/lesson1/task5/obj/Debug/net8.0/task5.AssemblyInfoInputs.cache
+/home/aleksey/Programming/lesson1/task5/obj/Debug/net8.0/task5.AssemblyInfo.cs
+/home/aleksey/Programming/lesson1/task5/obj/Debug/net8.0/task5.csproj.CoreCompileInputs.cache
+/home/aleksey/Programming/lesson1/task5/bin/Debug/net8.0/task5
+/home/aleksey/Programming/lesson1/task5/bin/Debug/net8.0/task5.deps.json
+/home/aleksey/Programming/lesson1/task5/bin/Debug/net8.0/task5.runtimeconfig.json
+/home/aleksey/Programming/lesson1/task5/bin/Debug/net8.0/task5.dll
+/home/aleksey/Programming/lesson1/task5/bin/Debug/net8.0/task5.pdb
+/home/aleksey/Programming/lesson1/task5/obj/Debug/net8.0/task5.dll
+/home/aleksey/Programming/lesson1/task5/obj/Debug/net8.0/refint/task5.dll
+/home/aleksey/Programming/lesson1/task5/obj/Debug/net8.0/task5.pdb
+/home/aleksey/Programming/lesson1/task5/obj/Debug/net8.0/task5.genruntimeconfig.cache
+/home/aleksey/Programming/lesson1/task5/obj/Debug/net8.0/ref/task5.dll
