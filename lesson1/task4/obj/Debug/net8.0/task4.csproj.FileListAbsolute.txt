@@ -1,0 +1,14 @@
+/home/aleksey/Programming/lesson1/task4/bin/Debug/net8.0/task4
+/home/aleksey/Programming/lesson1/task4/bin/Debug/net8.0/task4.deps.json
+/home/aleksey/Programming/lesson1/task4/bin/Debug/net8.0/task4.runtimeconfig.json
+/home/aleksey/Programming/lesson1/task4/bin/Debug/net8.0/task4.dll
+/home/aleksey/Programming/lesson1/task4/bin/Debug/net8.0/task4.pdb
+/home/aleksey/Programming/lesson1/task4/obj/Debug/net8.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksey/Programming/lesson1/task4/obj/Debug/net8.0/task4.AssemblyInfoInputs.cache
+/home/aleksey/Programming/lesson1/task4/obj/Debug/net8.0/task4.AssemblyInfo.cs
+/home/aleksey/Programming/lesson1/task4/obj/Debug/net8.0/task4.csproj.CoreCompileInputs.cache
+/home/aleksey/Programming/lesson1/task4/obj/Debug/net8.0/task4.dll
+/home/aleksey/Programming/lesson1/task4/obj/Debug/net8.0/refint/task4.dll
+/home/aleksey/Programming/lesson1/task4/obj/Debug/net8.0/task4.pdb
+/home/aleksey/Programming/lesson1/task4/obj/Debug/net8.0/task4.genruntimeconfig.cache
+/home/aleksey/Programming/lesson1/task4/obj/Debug/net8.0/ref/task4.dll
